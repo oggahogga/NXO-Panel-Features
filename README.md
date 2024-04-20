@@ -1,5 +1,3 @@
-# NXO-V1-Features
-
 # Categories
 - Settings
 - Anti Reports
