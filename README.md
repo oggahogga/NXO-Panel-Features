@@ -20,7 +20,7 @@
 - **Quit GTAG**
 - **X To Disconnect**
 - **Join Random**
-- **Disable Network Triggers [WIP]**
+- **Disable Network Triggers**
 - **Grab All ID'S**
 
 # Player
@@ -55,7 +55,7 @@
 - **Speed Boost**
 - **Comp Boost**
 - **Glider Speed Boost**
-- **Grip Monke [WIP]**
+- **Grip Monke**
 - **Slide Control**
 - **Low Gravity**
 - **High Gravity**
