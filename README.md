@@ -1,5 +1,3 @@
-Certainly, here are the mods organized with bullets:
-
 # Base
 - **Config**
 - **Room**
