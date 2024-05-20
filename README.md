@@ -1,5 +1,5 @@
 # Base
-- **Config**
+- **Config [WIP CAUSE IM LAZY]**
 - **Room**
 - **Player**
 - **Movement**
@@ -8,13 +8,13 @@
 - **Overpowered**
 
 # Settings
-- **Disconnect Button**
-- **Change Theme**
-- **Switch Buttons**
-- **Right Hand**
-- **Notifications**
-- **Clear Notifications**
-- **Change Time Of Day**
+- **Disconnect Button [WIP]**
+- **Change Theme [WIP]**
+- **Switch Buttons [WIP]**
+- **Right Hand [WIP]**
+- **Notifications [WIP]**
+- **Clear Notifications [WIP]**
+- **Change Time Of Day [WIP]**
 
 # Room
 - **Quit GTAG**
@@ -55,7 +55,7 @@
 - **Speed Boost**
 - **Comp Boost**
 - **Glider Speed Boost**
-- **Grip Monke**
+- **Grip Monke [W?]**
 - **Slide Control**
 - **Low Gravity**
 - **High Gravity**
@@ -98,17 +98,17 @@
 - **Float Player Gun [M|SS]**
 - **Freeze Player Gun [M|SS]**
 - **Grab Monsters [M|SS]**
-- **Destroy Monsters [M|SS]**
-- **Freeze Monsters [M|SS]**
-- **Fast Monsters [M|SS]**
+- **Destroy Monsters [M|SS|W?]**
+- **Freeze Monsters [M|SS|W?]**
+- **Fast Monsters [M|SS|W?]**
 - **Grab All Gliders [M|SS]**
 - **Brawl Spaz Gun [M|SS]**
-- **Brawl Spaz All [M|SS]**
-- **Mat Spam Gun [M|SS]**
-- **Mat Spam All [M|SS]**
+- **Brawl Spaz All [M|SS|W?]**
+- **Mat Spam Gun [M|SS|W?]**
+- **Mat Spam All [M|SS|W?]**
 - **Spaz All Gliders [M|SS]**
 - **No Name**
 - **Leaderboard Name Spoof [SS]**
-- **Anti Report [Forest|City]**
+- **Shitty Anti Report From F3 [Forest]**
 - **Select Sound Spam**
 - **Random Sound Spam**
