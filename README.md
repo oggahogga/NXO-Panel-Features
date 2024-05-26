@@ -1,33 +1,25 @@
-# Base
-- **Config [WIP CAUSE IM LAZY]**
-- **Room**
-- **Player**
-- **Movement**
-- **Visuals**
-- **Fun**
-- **Overpowered**
-
-# Settings
-- **Disconnect Button [WIP]**
-- **Change Theme [WIP]**
-- **Switch Buttons [WIP]**
-- **Right Hand [WIP]**
-- **Notifications [WIP]**
-- **Clear Notifications [WIP]**
-- **Change Time Of Day [WIP]**
+# NXO V2 Full Release
 
 # Room
-- **Quit GTAG**
+- **Quit Game**
+- **Disconnect**
 - **X To Disconnect**
 - **Join Random**
+- **Anti Report**
+- **Leaderboard Name Spoof [SS]**
 - **Disable Network Triggers**
 - **Grab All ID'S**
 
 # Player
 - **Ghost Monke**
-- **Invis Monke**
+- **Invisible Monke**
 - **Freeze Rig**
-- **Long Arms**
+- **Steam Long Arms**
+- **Ghost Long Arms**
+- **Tag All [T]**
+- **Tag Self [T]**
+- **Tag Gun**
+- **Tag Aura [T]**
 - **Size Changer**
 - **Helicopter Monke**
 - **Beyblade Monke**
@@ -39,6 +31,7 @@
 - **Flip Head**
 - **Head Spaz**
 - **Fake Lag**
+- **No Name [SS]**
 
 # Movement
 - **Platforms**
@@ -47,35 +40,36 @@
 - **Invisible Platforms**
 - **Noclip**
 - **Frozone**
-- **Normal Fly**
-- **Fast Fly**
-- **Slow Fly**
-- **Velocity Fly [W?]**
-- **Ghost Fly [WIP]**
+- **Fly**
+- **Faster Fly**
+- **Slower Fly**
+- **Velocity Fly**
 - **Speed Boost**
-- **Comp Boost**
-- **Glider Speed Boost**
-- **Grip Monke [W?]**
+- **Mosa Boost**
+- **Playspace Abuse [W?]**
+- **Grip Monke**
 - **Slide Control**
 - **Low Gravity**
 - **High Gravity**
 - **Check Point**
-- **Place Bomb**
-- **Normal Wall Walk**
-- **Strong Wall Walk**
+- **Place Bomb [A To Spawn|T To Detonate]**
+- **Wall Walk**
+- **Stronger Wall Walk**
 - **Weaker Wall Walk**
-- **Car Monke**
+- **Car Monke [T]**
 - **Fast Swim**
-- **TP To Stump**
+- **TP To Stump [T]**
 - **No Tag Freeze**
 
 # Visuals
-- **Chams**
-- **Bone ESP**
+- **Full Body ESP**
+- **Skeleton ESP**
 - **Box ESP**
+- **3D Box ESP**
+- **2D Box ESP**
 - **Tracers**
-- **Wireframe ESP**
-- **FPS Boost**
+- **First Person**
+- **Bad Graphics**
 
 # Fun
 - **Webshooters**
@@ -85,30 +79,24 @@
 - **Splash Aura**
 - **Splash Self**
 - **Punch Mod**
+- **Fast Monsters [M|SS]**
+- **Destroy Monsters [M|T]**
+- **Freeze Monsters [M|T]**
 - **Dick Mod**
 - **Dick Holdable**
+- **Snowball Block [A]**
 - **Colorful Snowballs**
-- **Draw With Hands**
+- **Draw [A To Switch Colors|T To Delete]**
+- **Grab All Gliders [M|G]**
+- **Spaz All Gliders [M|G]**
+- **Custom Sound Spam [A|B To Change Sound]**
+- **Random Sound Spam**
 
 # Overpowered
-- **Tag All**
-- **Tag Self**
-- **Tag Gun**
-- **Tag Reach**
 - **Float Player Gun [M|SS]**
 - **Freeze Player Gun [M|SS]**
-- **Grab Monsters [M|SS]**
-- **Destroy Monsters [M|SS|W?]**
-- **Freeze Monsters [M|SS|W?]**
-- **Fast Monsters [M|SS|W?]**
-- **Grab All Gliders [M|SS]**
-- **Brawl Spaz Gun [M|SS]**
-- **Brawl Spaz All [M|SS|W?]**
-- **Mat Spam Gun [M|SS|W?]**
-- **Mat Spam All [M|SS|W?]**
-- **Spaz All Gliders [M|SS]**
-- **No Name**
-- **Leaderboard Name Spoof [SS]**
-- **Shitty Anti Report From F3 [Forest]**
-- **Select Sound Spam**
-- **Random Sound Spam**
+- **Push Players [M|SS]**
+- **Brawl Ballon Spam Gun [M|SS]**
+- **Brawl Ballon Spam All [M|SS]**
+- **Mat Spam Gun [M|SS]**
+- **Mat Spam All [M|SS]**
