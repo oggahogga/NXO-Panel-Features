@@ -185,5 +185,3 @@
 # Experimental:
 - Horror Mode
 - Seizure Mode
-
-This breakdown should help you organize and implement the buttons according to their respective categories!
